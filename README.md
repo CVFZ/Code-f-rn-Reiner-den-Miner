@@ -1,4 +1,4 @@
-# Code für'n Reiner, den Crypto Miner
+# Source Code für'n Reiner, den Crypto Miner
 Reiner is a Miner :) 
 In diesem Projekt wird Code für ihn bereitgestellt.
 
