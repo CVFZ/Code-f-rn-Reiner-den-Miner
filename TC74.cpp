@@ -42,8 +42,7 @@ Serial.println(Wire.read());
 } else {
 Serial.println("Dieser Befehl wurde nicht verstanden!");
 }
-Abteilung für Elektrotechnik
-Benjamin Wurzer 6 von 6
+
 inputString="";
 stringComplete=false;
 }
